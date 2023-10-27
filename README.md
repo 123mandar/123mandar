@@ -8,7 +8,7 @@ I'm Mandar, a passionate developer from India.
 
 📊 My GitHub contribution streak:
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user123mandar&theme=dark)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=123mandar&theme=dark)
 
 💼 My programming languages and tools:
 
