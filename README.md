@@ -16,17 +16,15 @@ I'm Mandar, a passionate developer from India.
 
 🌟 Check out some of my top repositories:
 
-1. [Repository Name 1](https://github.com/123man/repo1)
-2. [Repository Name 2](https://github.com/123man/repo2)
-3. [Repository Name 3](https://github.com/123man/repo3)
+1. [Repository Name 1]([https://github.com/123man/repo1](https://github.com/123mandar/Event-Management.git))
+
 
 Feel free to explore my repositories, and don't hesitate to get in touch with me!
 
 📫 How to reach me:
 
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
+- [Email](mandardhage2201@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mandar-dhage-51892620b/)
 
 Happy coding! 🚀
 
