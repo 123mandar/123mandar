@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm [Your Name], a passionate developer from [Your Location]. 
+I'm Mandar, a passionate developer from India. 
 
 🔥 Here are some stats about my GitHub activity:
 
