@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Mandar, a passionate developer from India. 
+  I'm Mandar, a passionate developer from India. 
 
 🔥 Here are some stats about my GitHub activity:
 
