@@ -16,7 +16,7 @@ I'm Mandar, a passionate developer from India.
 
 🌟 Check out some of my top repositories:
 
-1. [Repository Name 1]([https://github.com/123man/repo1](https://github.com/123mandar/Event-Management.git))
+1. [Repository Name 1]([https://github.com/123man/repo1](https://github.com/123mandar/Event-Management.git])
 
 
 Feel free to explore my repositories, and don't hesitate to get in touch with me!
