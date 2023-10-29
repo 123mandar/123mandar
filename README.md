@@ -18,10 +18,6 @@
 
 Feel free to explore my repositories, and don't hesitate to get in touch with me!
 
-📫 How to reach me:
-
-- [Email](mandardhage2201@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mandar-dhage-51892620b/)
 
 Happy coding! 🚀
 
