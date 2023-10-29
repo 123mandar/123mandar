@@ -1,6 +1,5 @@
   ##                Hi there! 👋
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitacharekar&label=Profile%20views&color=0e75b6&style=flat" alt="amitacharekar" /> </p>
   I'm Mandar, a passionate developer from India. 
 
  📫 How to reach me **mandardhage2201@gmail.com**
