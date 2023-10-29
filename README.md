@@ -1,6 +1,7 @@
   ##                Hi there! 👋
 
   I'm Mandar, a passionate developer from India. 
+ 📫 How to reach me **mandardhage2201@gmail.com**
 
 🔥 Here are some stats about my GitHub activity:
 
